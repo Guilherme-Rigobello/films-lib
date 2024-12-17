@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Inter:wght@100..900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'DM sans', sans-serif;
+  color: #fff;
+}
+
+body {
+  background: radial-gradient(#1b1b3a, #0d0d1d);
+  min-height: 100vh;
+  color: #fff;
+}
